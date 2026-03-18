@@ -1,10 +1,10 @@
-package com.letsplay;
+package com.letsplay.letsplay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class LetsplayApplicationTests {
 
 	@Test
 	void contextLoads() {
